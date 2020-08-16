@@ -7,7 +7,10 @@
   },
   "rules": {
     "arrow-parens": "off",
-    "comma-dangle": "off"
+    "comma-dangle": "off",
+    "require-jsdoc": "off",
+    "indent": "off",
+    "no-trailing-spaces": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
